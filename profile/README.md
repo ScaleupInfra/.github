@@ -12,19 +12,18 @@
 -->
 
 
-![Logo](https://autoscaleupinfra-buckets.s3.ap-northeast-1.amazonaws.com/2.png)
+![Logo](https://autoscaleupinfra-buckets.s3.ap-northeast-1.amazonaws.com/2+(1).png)
 
 
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+# About AutoScaleupInfra
 
 
+💻 AutoScaleupinfra was founded by a bunch of infrastructure engineers with the goal of making the creation of cloud infrastructure rapidly, with the single goal of helping organizations create and deliver powerful applications faster and more efficiently.
 
-# Terraform GitHub Repository Creation Module
+Our open-source ethos is at the core of what AutoScaleupinfra is, most of the pre-written code is open-sourced and readily available for customers to use and built robust infrastructure for their organization.
 
-This Terraform module enables you to create GitHub repositories programmatically using Terraform. With this module, you can automate the process of creating multiple GitHub repositories with configurable settings.
+# What do we do
+1. With our years of experience in writing infrastructure as a code for Fortune 500 companies, we have condensed down the code which can be reused easily any company when they are starting their infrastructure journey
+2. Currently our repository
+
+
