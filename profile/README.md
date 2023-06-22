@@ -27,4 +27,11 @@ Our open-source ethos is at the core of what AutoScaleupinfra is, most of the pr
 2. Currently our repository contains infrastructure as a code for AWS, Azure & GCP.
 3. We take the responsibility to upgrade it whenever there's a code change in the backend so that you get unaffected.
 
+# Why AutoScaleupInfra Infrastructure Code
+1. Our Code is written based on decades of building infrastructure for customers
+2. Our Terraform repository utilises the best practises so that you don't have to worry about things like writing poliies and tes cases.
+3. We have tied up terraform validation so that you don;t miss out on important tags and don;t have to remember the naming convention of your organization
+4. We have tied everything under a shell script so that there are no manuall steps or miss outs
+   
+
 
