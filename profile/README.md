@@ -24,6 +24,7 @@ Our open-source ethos is at the core of what AutoScaleupinfra is, most of the pr
 
 # What do we do
 1. With our years of experience in writing infrastructure as a code for Fortune 500 companies, we have condensed down the code which can be reused easily any company when they are starting their infrastructure journey
-2. Currently our repository
+2. Currently our repository contains infrastructure as a code for AWS, Azure & GCP.
+3. We take the responsibility to upgrade it whenever there's a code change in the backend so that you get unaffected.
 
 
