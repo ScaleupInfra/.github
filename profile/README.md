@@ -32,6 +32,13 @@ Our open-source ethos is at the core of what AutoScaleupinfra is, most of the pr
 2. Our Terraform repository utilises the best practises so that you don't have to worry about things like writing poliies and tes cases.
 3. We have tied up terraform validation so that you don;t miss out on important tags and don;t have to remember the naming convention of your organization
 4. We have tied everything under a shell script so that there are no manuall steps or miss outs
-   
+
+# Our USP
+1. Save yourself the trouble of writing and testing code from scratch. We offer battle-tested Terraform code that has already been utilized by Fortune 500 companies.
+2. Whether you're utilizing GitHub Actions, GitLab, or Azure DevOps, we have you covered with prewritten CI/CD YAML templates
+3. To ensure that your infrastructure-as-code is thoroughly tested and integrated with the appropriate security tools, we have seamlessly incorporated the following security tools.
+  -- > Checkov
+  -- > Open Policy Agent
+4. By leveraging the built-in functionalities of Terraform, such as Terraform validation, we prioritize the importance of naming conventions and accurate resource tagging
 
 
